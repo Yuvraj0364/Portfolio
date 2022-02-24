@@ -1,0 +1,35 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    text-transform: uppercase;
+}
+
+nav
+{
+    width: 75%;
+    position: relative;
+    margin:auto;
+}
+
+.jumbotron
+{
+    width: 65%;
+    position: relative;
+    margin:auto;
+    padding: 20px;
+}
+img
+{
+    width: 250px;
+    height: 240px;;
+}
+.intro
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
